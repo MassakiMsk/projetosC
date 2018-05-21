@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1498001531 source:c:\projetos\c\lotomania\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507922192 source:c:\projetos\c\loterias\lotomania\main.c
+	<stdio.h>
+	<stdlib.h>
+

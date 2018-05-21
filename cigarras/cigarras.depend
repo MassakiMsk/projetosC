@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508966088 source:c:\projetos\c\cigarras\main.c
+	<stdio.h>
+	<stdlib.h>
+

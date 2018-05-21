@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522857017 source:c:\projetos\c\nodeaux\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

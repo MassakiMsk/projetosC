@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1494783584 source:c:\projetos\c\conferelotomania\main.c
+	<stdio.h>
+	<stdlib.h>
+

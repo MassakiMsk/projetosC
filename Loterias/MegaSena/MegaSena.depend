@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1498002320 source:c:\projetos\c\loterias\megasena\main.c
+	<stdio.h>
+	<stdlib.h>
+

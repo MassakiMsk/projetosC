@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1477190200 source:c:\workspace\codeblocks\baralho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<stdbool.h>
+	<string.h>
+
+1477186600 source:c:\projetos\codeblocks\baralho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<stdbool.h>
+	<string.h>
+

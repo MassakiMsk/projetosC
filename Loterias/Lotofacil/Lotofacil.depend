@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1498000887 source:c:\projetos\c\lotofacil\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1498001505 source:c:\projetos\c\loterias\lotofacil\main.c
+	<stdio.h>
+	<stdlib.h>
+

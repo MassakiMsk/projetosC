@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1478264512 source:c:\users\temp.labinfo.006\desktop\letras_grandes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1522891145 source:c:\projetos\c\letras_grandes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

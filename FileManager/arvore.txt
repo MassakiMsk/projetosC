@@ -1,0 +1,8 @@
+W!
+|-- aaa
+|   |-- bbb
+W!
+|-- aaa
+|   |-- bbb
+|-- aaa
+|   |-- bbb

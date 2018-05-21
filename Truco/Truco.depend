@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1478013255 source:c:\workspace\codeblocks\truco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<stdbool.h>
+	<string.h>
+
+1478009655 source:c:\projetos\codeblocks\truco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<stdbool.h>
+	<string.h>
+

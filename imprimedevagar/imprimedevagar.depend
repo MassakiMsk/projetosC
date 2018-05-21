@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526909545 source:c:\projetos\c\imprimedevagar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
